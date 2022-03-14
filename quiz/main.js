@@ -50,7 +50,7 @@ function clearPage() {
 }
 
 function showQuestion() {
-  console.log('showQuestion');
+  // console.log('showQuestion');
 
   // Вопрос
   const headerTemplate = `<h2 class="title">%title%</h2>`;
