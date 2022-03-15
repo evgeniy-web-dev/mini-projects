@@ -8,3 +8,4 @@
 - [currency-converter](https://evgeniy-web-dev.github.io/mini-projects/currency-converter/)
 - [cost-calculator](https://evgeniy-web-dev.github.io/mini-projects/cost-calculator/)
 - [quiz](https://evgeniy-web-dev.github.io/mini-projects/quiz/)
+- [roll-shop](https://evgeniy-web-dev.github.io/mini-projects/roll-shop/)
